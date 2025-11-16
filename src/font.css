@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "ChangingW00";
+  src: url("./Changing\ W00.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "text";
+  src: url("./P22\ Underground\ W01\ Heavy.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+.footer-poppins { font-family: "Poppins", Inter, sans-serif; }
+.footer-roboto {font-family: "Roboto", Inter, sans-serif;}
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;500;600;700;900&display=swap');
